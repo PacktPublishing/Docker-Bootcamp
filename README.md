@@ -24,4 +24,7 @@ You will see code something similler to the following:
 
 There are no codes for the chapters 1 and 7, required software would be Docker, Amazon Web Service, Digital Ocean and Windows 10/Ubuntu/macOS Sierra
 
-## Related Neural Network Products:
+## Related Docker Bootcamp:
+* [DevOps: Puppet, Docker, and Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-puppet-docker-and-kubernetes?utm_source=github&utm_medium=repository&utm_content=9781787286986)
+* [Jenkins Bootcamp Video](https://www.packtpub.com/application-development/jenkins-bootcamp-video?utm_source=github&utm_medium=repository&utm_content=9781787124134)
+* [DevOps Bootcamp](https://www.packtpub.com/networking-and-servers/devops-bootcamp?utm_source=github&utm_medium=repository&utm_content=9781787285965)
