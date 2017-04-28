@@ -22,7 +22,7 @@ You will see code something similler to the following:
      
 ### Note
 
-There are no codes for the chapters 1 and 7, required software would be Docker, Amazon Web Service, Digital Ocean and Windows 10/Ubuntu/macOS Sierra
+There are no codes for the chapters 1 and 7, required software for this book are Docker, Amazon Web Service, Digital Ocean and Windows 10/Ubuntu/macOS Sierra
 
 ## Related Docker Bootcamp:
 * [DevOps: Puppet, Docker, and Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-puppet-docker-and-kubernetes?utm_source=github&utm_medium=repository&utm_content=9781787286986)
